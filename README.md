@@ -1,4 +1,4 @@
-# Optimizing Online Sports Retail Revenue Through SQL
+# Maximize-Retail-Revenue Through SQL
 Analyze product data for an online sports retail company to optimize revenue.
 
 https://github.com/balawatt/Optimizing-Retail-Company-Revenue-Using-SQL-main/blob/main/sports_img.jpg
