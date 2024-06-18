@@ -1,7 +1,7 @@
 # Optimizing Online Sports Retail Revenue Through SQL
 Analyze product data for an online sports retail company to optimize revenue.
 
-![](https://github.com/balawatt/Optimizing-Retail-Company-Revenue-Using-SQL/blob/main/sports_img.jpg)
+https://github.com/balawatt/Optimizing-Retail-Company-Revenue-Using-SQL-main/blob/main/sports_img.jpg
 
 ## Objective :
 The goal of this project is to improve revenue of online Retail Company and produce recommendations for its marketing and sales teams.
